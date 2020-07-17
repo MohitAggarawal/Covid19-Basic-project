@@ -51,9 +51,10 @@ countryForm.addEventListener('submit', e => {
 	
 
 })
-console.log(1)
-console.log("Done")
-console.log('2')
+console.log(1);
+console.log("Done");
+console.log('2');
+console.log('changes');
 // const key = "1bb1ac1d5amsh81f8fadcd780b33p1bae8ajsnb57ee55c52bd";
 
 // const getCountry = async(Country) => {
