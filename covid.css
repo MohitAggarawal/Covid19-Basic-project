@@ -1,0 +1,61 @@
+body{
+    background:url(./coronavirus-statistics-on-screen-3970330.jpg);
+    font-family: 'Times New Roman', Times, serif;
+   
+    background-position:center ;
+    background-size: cover;
+    height: auto;
+}
+.container{
+   max-width: 400px;
+    
+}
+h1{
+    font-weight: 800;
+    color: #fff !important;
+}
+label{
+    font-size: 25px;
+    font-weight: 700;
+    color: #fff;
+}
+input{
+    background:#ddd !important;
+}
+.card {
+    height: auto;
+    max-width: 400px;
+    padding-right: 2rem;
+    padding-top: 1rem;
+    margin-top: 2rem;
+    border-radius:20px !important;
+    background: #ddd;
+    -webkit-border-radius:20px !important;
+    -moz-border-radius:20px !important;
+    -ms-border-radius:20px !important;
+    -o-border-radius:20px !important;
+    text-align: center;
+    
+}
+.card .details ul{
+    list-style: none;
+}
+.card .details li {
+    font-size: 20px;
+    padding: 1rem 0;
+}
+.card .details li span{
+    color: red;
+
+}
+#recovered{
+    color: green;
+}
+#confirm{
+    color:rgb(4, 4, 109)
+}
+#country{
+    font-size: 1.45em;
+    font-weight: 600;
+    color: black;
+}
